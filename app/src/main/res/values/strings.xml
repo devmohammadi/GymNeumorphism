@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GymNeumorphism</string>
+    <string name="program">Program</string>
+    <string name="arm_training">Arm \nTraining</string>
+    <string name="weight_training">Weight \nTraining</string>
+    <string name="run_training">Run \nTraining</string>
+    <string name="yoga_training">Yoga \nTraining</string>
+    <string name="noTask">No Task</string>
+    <string name="haveFinished">Have finished</string>
+    <string name="in_progress">In Progress ...</string>
+    <string name="course_collection">Course Collection</string>
+    <string name="course_attended">Course | Attended</string>
+    <string name="_11_courses_in_media">11 courses in media</string>
+</resources>
